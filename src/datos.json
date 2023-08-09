@@ -1,0 +1,87 @@
+[
+  { 
+    "tecnologia": "react",
+    "title": " component with sign-up form",
+    "urlImagen": "https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_475/Challenges/ficuxtmo5kmd5bb8lmws.jpg",
+    "paginaUrl": "https://fullfontj.github.io/component-sign-up/",
+    "source" : "https://github.com/FullFontJ/component-sign-up"
+  },
+  { 
+    "tecnologia": "react",
+    "title": "Interactive rating component",
+    "urlImagen": "https://res.cloudinary.com/dz209s6jk/image/upload/q_auto,w_700/Challenges/hxx2bhmtmeelt0a98zos.jpg",
+    "paginaUrl": "https://fullfontj.github.io/interative-component/",
+    "source" : "https://github.com/FullFontJ/interative-component"
+  },
+  { 
+    "tecnologia": "react",
+    "title": "Order summary component",
+    "urlImagen": "https://res.cloudinary.com/dz209s6jk/image/upload/q_auto,w_700/Challenges/ouobx6tvyduidzio7wr7.jpg",
+    "paginaUrl": "https://fullfontj.github.io/order-summary/",
+    "source" : "https://github.com/FullFontJ/order-summary"
+  },
+  { 
+    "tecnologia": "react",
+    "title": "Stats preview card component",
+    "urlImagen": "https://res.cloudinary.com/dz209s6jk/image/upload/q_auto,w_700/Challenges/sucvvhutd4codsxpzvw7.jpg  ",
+    "paginaUrl": "https://fullfontj.github.io/Preview-component/",
+    "source" : "https://github.com/FullFontJ/Preview-component"
+  },
+  { 
+    "tecnologia": "react",
+    "title": "FAQ accordion card",
+    "urlImagen": "https://res.cloudinary.com/dz209s6jk/image/upload/q_auto,w_700/Challenges/ua4zwoxu3i9avrzrusre.jpg",
+    "paginaUrl": "https://fullfontj.github.io/FAQ-card/",
+    "source" : "https://github.com/FullFontJ/FAQ-card"
+  },
+  { 
+    "tecnologia": "react",
+    "title": "3-column preview card component",
+    "urlImagen": "https://res.cloudinary.com/dz209s6jk/image/upload/q_auto,w_700/Challenges/juir90bwmmvlo86g9paz.jpg",
+    "paginaUrl": "https://fullfontj.github.io/three-columns/",
+    "source" : "https://github.com/FullFontJ/three-columns"
+  },
+  { 
+    "tecnologia": "react",
+    "title": "NFT preview card component",
+    "urlImagen": "https://res.cloudinary.com/dz209s6jk/image/upload/q_auto,w_700/Challenges/rinokvkluq95madbvtmk.jpg",
+    "paginaUrl": "https://fullfontj.github.io/card-nft/",
+    "source" : "https://github.com/FullFontJ/card-nft"
+  },
+  { 
+    "tecnologia": "react",
+    "title": "Social proof section",
+    "urlImagen": "https://res.cloudinary.com/dz209s6jk/image/upload/q_auto,w_700/Challenges/bnjpxmx9fudsmerfj6eo.jpg",
+    "paginaUrl": "https://fullfontj.github.io/section-social/",
+    "source" : "https://github.com/FullFontJ/section-social"
+  },
+  { 
+    "tecnologia": "react",
+    "title": "QR code component",
+    "urlImagen": "https://res.cloudinary.com/dz209s6jk/image/upload/q_auto,w_700/Challenges/qh97gysgjrzqyqlig2al.jpg",
+    "paginaUrl": "https://fullfontj.github.io/card-QR/",
+    "source" : "https://github.com/FullFontJ/card-QR"
+  },
+  {  
+    "tecnologia": "java",
+    "title": "Administrador De Tareas",
+    "urlImagen": "https://raw.githubusercontent.com/FullFontJ/Task-List/main/screenshot/app-task.png",
+    "paginaUrl": null,
+    "source" : "https://github.com/FullFontJ/Task-List"
+  },
+  { 
+    "tecnologia": "java",
+    "title": "Inventario Productos",
+    "urlImagen": "https://raw.githubusercontent.com/FullFontJ/inventario-productos/main/screenshots/productos.png",
+    "paginaUrl": null,
+    "source" : "https://github.com/FullFontJ/inventario-productos"
+  },
+
+  {  
+    "tecnologia": "java",
+    "title": "Sistema Bibliotecario",
+    "urlImagen": "https://raw.githubusercontent.com/FullFontJ/library-system/main/screenshots/users.png",
+    "paginaUrl": null,
+    "source" : "https://github.com/FullFontJ/library-system"
+  }
+]
