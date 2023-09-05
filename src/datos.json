@@ -1,4 +1,31 @@
-[
+[{ 
+    "tecnologia": "react-typescript",
+    "title": "Password Generator App",
+    "urlImagen": "https://res.cloudinary.com/dz209s6jk/image/upload/v1661436487/Challenges/pq66aieybewwpo2zlryv.jpg",
+    "paginaUrl": "https://fullfontj.github.io/password-generator-app/",
+    "source" : "https://github.com/FullFontJ/password-generator-app"
+  },
+  {  
+    "tecnologia": "java",
+    "title": "Sistema Bibliotecario",
+    "urlImagen": "https://raw.githubusercontent.com/FullFontJ/library-system/main/screenshots/users.png",
+    "paginaUrl": null,
+    "source" : "https://github.com/FullFontJ/library-system"
+  },
+  { 
+    "tecnologia": "java",
+    "title": "Inventario Productos",
+    "urlImagen": "https://raw.githubusercontent.com/FullFontJ/inventario-productos/main/screenshots/productos.png",
+    "paginaUrl": null,
+    "source" : "https://github.com/FullFontJ/inventario-productos"
+  },
+  {  
+    "tecnologia": "java",
+    "title": "Administrador De Tareas",
+    "urlImagen": "https://raw.githubusercontent.com/FullFontJ/Task-List/main/screenshot/app-task.png",
+    "paginaUrl": null,
+    "source" : "https://github.com/FullFontJ/Task-List"
+  },
   { 
     "tecnologia": "react",
     "title": " component with sign-up form",
@@ -62,26 +89,32 @@
     "paginaUrl": "https://fullfontj.github.io/card-QR/",
     "source" : "https://github.com/FullFontJ/card-QR"
   },
-  {  
-    "tecnologia": "java",
-    "title": "Administrador De Tareas",
-    "urlImagen": "https://raw.githubusercontent.com/FullFontJ/Task-List/main/screenshot/app-task.png",
-    "paginaUrl": null,
-    "source" : "https://github.com/FullFontJ/Task-List"
+  { 
+    "tecnologia": "react",
+    "title": "single grid component",
+    "urlImagen": "https://res.cloudinary.com/dz209s6jk/image/upload/v1558450849/Challenges/etoajz7nokwmphl1jonw.jpg",
+    "paginaUrl": "https://fullfontj.github.io/single-grid-component/",
+    "source" : "https://github.com/FullFontJ/single-grid-component"
   },
   { 
-    "tecnologia": "java",
-    "title": "Inventario Productos",
-    "urlImagen": "https://raw.githubusercontent.com/FullFontJ/inventario-productos/main/screenshots/productos.png",
-    "paginaUrl": null,
-    "source" : "https://github.com/FullFontJ/inventario-productos"
+    "tecnologia": "react",
+    "title": "Time tracking",
+    "urlImagen": "https://res.cloudinary.com/dz209s6jk/image/upload/v1631270212/Challenges/va9khukabo1wlmpzsbgi.jpg",
+    "paginaUrl": "https://fullfontj.github.io/time-tracking/",
+    "source" : "https://github.com/FullFontJ/time-tracking"
   },
-
-  {  
-    "tecnologia": "java",
-    "title": "Sistema Bibliotecario",
-    "urlImagen": "https://raw.githubusercontent.com/FullFontJ/library-system/main/screenshots/users.png",
-    "paginaUrl": null,
-    "source" : "https://github.com/FullFontJ/library-system"
+  { 
+    "tecnologia": "react",
+    "title": "School-Zip",
+    "urlImagen": "./image/page-02.3fcdfbb16fc6a73348cd.png",
+    "paginaUrl": "https://fullfontj.github.io/School-Zip/",
+    "source" : "https://github.com/FullFontJ/School-Zip"
+  },
+  { 
+    "tecnologia": "react",
+    "title": "Delivery food",
+    "urlImagen": "./image/page-03.a219102a47bcf94bc980.png",
+    "paginaUrl": "https://fullfontj.github.io/delivery-food/",
+    "source" : "https://github.com/FullFontJ/delivery-food"
   }
 ]

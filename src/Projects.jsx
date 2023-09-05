@@ -59,7 +59,7 @@ const Card = ({image, title, source, link}) => {
         <div className="relative w-full">
         <img src={image} alt={title} className="w-full" />
         <div className="absolute bottom-4 left-3 flex gap-1"> 
-        <a className="bg-[#E67F50] p-1 text-white rounded-md cursor-pointer" href={source} target="_blank">Codigo</a>
+        <a className="bg-[#E67F50] p-1 text-white rounded-md cursor-pointer" href={source} target="_blank">Source</a>
             
             {link ?  <a className="bg-[#E67F50] p-1 text-white rounded-md cursor-pointer" href={link} target="_blank">Pagina</a> : <div></div> }
             
