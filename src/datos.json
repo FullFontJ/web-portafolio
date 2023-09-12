@@ -1,4 +1,11 @@
 [{ 
+  "tecnologia": "vue-typescript",
+  "title": "Sunnyside landing page",
+  "urlImagen": "https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_700/Challenges/wqzotbyfysz9pbfk9jus.jpg",
+  "paginaUrl": "https://fullfontj.github.io/sunnyside-landing-page/",
+  "source" : "https://github.com/FullFontJ/sunnyside-landing-page"
+  },
+  { 
     "tecnologia": "react-typescript",
     "title": "Password Generator App",
     "urlImagen": "https://res.cloudinary.com/dz209s6jk/image/upload/v1661436487/Challenges/pq66aieybewwpo2zlryv.jpg",
